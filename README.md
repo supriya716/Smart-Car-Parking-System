@@ -23,7 +23,7 @@ An IoT-based Smart Car Parking System developed using ESP32, IR sensors, Blynk, 
 
 ## Circuit Diagram
 
-![Circuit Diagram](Images/Circuit Diagram.png)
+![Circuit Diagram](Images/Circuit_Diagram.png)
 
 ## Software Used
 - Arduino IDE
