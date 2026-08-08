@@ -7,8 +7,8 @@
 #include <BlynkSimpleEsp32.h>
 #include <LiquidCrystal_I2C.h>
 
-char ssid[] = "MyESP32";
-char pass[] = "skaddi26";
+char ssid[] = "YOUR_WIFI_NAME";
+char pass[] = "YOUR_WIFI_PASSWORD";
 
 // Virtual pins
 #define SLOT1 V0
